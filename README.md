@@ -1,3 +1,3 @@
 # nocodegame
 
-<img src="game.gif" width="300" />
+<img src="gamedemo.gif" width="300" />
